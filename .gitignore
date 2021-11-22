@@ -1,0 +1,6 @@
+# Gitignore File
+
+*.dll
+*.obj
+/bin
+/obj
